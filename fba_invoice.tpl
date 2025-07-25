@@ -184,20 +184,19 @@
       <td><b>Declaration</b></td>
     </tr>
        <tr>
-       <td class="left">1. We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.<br />
-2. The responsibility of the company regarding the quality and weight of the products covered under this invoice ceases after dispatch material from the factory and also does not take any responsibility for any damage loss or defect caused due to the products in transit.<br />
+       <td class="left">The goods are provided solely for job work and not for any other use.<br />
 </td>
     </tr>
-  </table><br /><br /><br />    <center> <b>FORM E</b><br />
+  </table><br /><br /><br />    <!--<center> <b>FORM E</b><br />
 Form of Guarantee<br />
-We hereby certify that the foods mentioned in this invoice are warranted to be of the nature and quality which these purports/purported to be.<br /><br /> </center>
+We hereby certify that the foods mentioned in this invoice are warranted to be of the nature and quality which these purports/purported to be.<br /><br /> </center>-->
  
  <img src="/image/data/invoice/stamp.jpg" style="width: 100px;height: 100px;"><br />
  <b>For HW Wellness Solutions Private Limited</b><br /><br /><br />
   <center>
  
 
-    <b>This is computer generated Invoice</b></center>
+    <b>This is computer generated document</b></center>
  </div>
  <?php } ?>
 
